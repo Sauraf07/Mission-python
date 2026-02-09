@@ -1,0 +1,12 @@
+# # a = int(input("enter a number"))
+# # b = int(input("enter b number"))
+# # print(a+b)
+
+# a = input("Enter a value :")
+# b = input("Enter b value :")
+# a = int(a)
+# b = int(b)
+# print(a+b)
+a = int(input("enter a number:"))
+b = int(input("enter b number:"))
+print(a+b)
