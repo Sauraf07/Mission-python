@@ -1,5 +1,0 @@
-print("Day 1")
-print("Laerning Python")
-print("My Name Is Saurav Kumar")
-print("Class: BCA")
-print("COllege: MRSC")
